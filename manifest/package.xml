@@ -28,6 +28,7 @@
         <members>Account</members>
         <members>Contact</members>
         <members>Opportunity</members>
+        <members>Lead</members>
         <name>CustomObject</name>
     </types>
     <types>
